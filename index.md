@@ -28,7 +28,7 @@ The Matrix project will address current problems caused by the lack of standardi
 ![Matrix - Stratigraphic & Allen Temporal Relations](/images/Matrix_Temporal_Relations.png)
 
 ## Matrix – Stratigraphic & Temporal Relations and Chronological Modelling
-One difference between a Bayesian chronological model and an archaeological sequence diagram is that the Bayesian chronological model may include temporal relationships that cannot be expressed by just using the stratigraphic Before/After/Equals as defined by the Harris matrix. The Matrix project will explore whether more explicit use of Allen operators and temporal primitive relationships in stratigraphic analysis processes can aid in the generation of data for use, and better re-use in chronological modelling.
+One difference between a Bayesian chronological model and an archaeological sequence diagram is that the Bayesian chronological model may include temporal relationships that cannot be expressed by just using the stratigraphic Before/After/Equals as defined by the Harris matrix. The Matrix project will explore whether more explicit use of Allen temporal operators and temporal primitive relationships in stratigraphic analysis processes can aid in the generation of digital data for use in chronological modelling, and better re-use of stratigraphic data in digital archives.
 
 ![Matrix - Stratigraphic & Temporal Relations and Chronological Modelling](/images/Dye_Buck_DAG.png)
 
