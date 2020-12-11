@@ -1,2 +1,2 @@
 # matrix
-Web pages describing the MATRIX project
+Public web pages describing the MATRIX project
