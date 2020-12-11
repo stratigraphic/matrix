@@ -1,7 +1,5 @@
 # The Matrix: connecting and re-using digital records and archives of archaeological investigations
 
-
-
 Archaeologists, are particularly concerned to make sure that the digital records of excavations are digitally archived and preserved safely for future research, because an archaeological excavation cannot be repeated. Once the archaeology is dug away then often the digital record is all that remains to enable future researchers to  understand what was discovered. This focus on preservation has helped address the principle concerns about "how do we keep this stuff digitally". But although there are now a number of well established digital archives, such as The Archaeology Data Service at York Uni (https://archaeologydataservice.ac.uk/), the next challenge is whether the data are preserved and accessible in a way that makes that data most useful to others beyond the archives and the archivists?
 
 This project will investigate how digital data from archaeological excavations can be made more useful and beneficial to a range of users and audiences. It will produce a plan and methods to get such data more consistently recorded, analysed, disseminated and archived in a way that is Findable, Accessible, Interoperable and Re-useable (FAIR).
@@ -33,6 +31,7 @@ The Matrix project will address current problems caused by the lack of standardi
 The focus of digital archaeological archives and museums is now switching from simply providing better access to digital archives, to questions of how are users in commercial units, curatorial organizations and academics, along with members of the public, going to make best use of this growing body of digital information and data.
 A process model output will enable the research team to distil and demonstrate the most common approaches, data flows, and processes used in the life-cycle of the relevant data. Prototype software can then be used as a vehicle to explain and present to end users and other audiences how the data flows through and between different data systems and activities.
 
+## References
 * Allen, J.F. (1983) 'Maintaining Knowledge about Temporal Intervals'. Communications of the ACM 26, 11, 832-843.
 * Binding, C. (2010) Implementing archaeological time periods using CIDOC CRM and SKOS. The Semantic Web: Research and Applications : ESWC 2010.
 * Dye, T.S. & Buck, C.E. (2015) Archaeological sequence diagrams and Bayesian chronological models. Journal of Archaeological Science, 63. 84 - 93. 
@@ -40,6 +39,11 @@ A process model output will enable the research team to distil and demonstrate t
 * May, K. 2020 The Matrix: Connecting Time and Space in Archaeological Stratigraphic Records and Archives, Internet Archaeology 55. https://doi.org/10.11141/ia.55.8 
 * Roskams, S. (2001) Excavation. Cambridge: Cambridge University Press. 
 * Tudhope, D., May, K., et al. (2011) 'Connecting Archaeological Data and Grey Literature via Semantic Cross Search', Internet Archaeology 30. https://doi.org/10.11141/ia.30.5
+
+## Contact the Project team: 
+* Keith May     PI - Historic England and University of South Wales
+* Ceri Binding  RA - University of South Wales
+* James Taylor  RA - University of York
 
 ## Acknowledgements
 AHRC grant AH/T002093/1 https://gtr.ukri.org/projects?ref=AH%2FT002093%2F1
