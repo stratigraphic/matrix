@@ -25,7 +25,6 @@ The Matrix project will address current problems caused by the lack of standardi
 ## Matrix – Stratigraphic & Temporal Relations and Chronological Modelling
 
 ![Matrix - Stratigraphic & Allen Temporal Relations](/images/Matrix_Temporal_Relations.png)
-![Dye & Buck 2015](/images/Dye_Buck_DAG.png) Dye, T.S. & Buck, C.E. (2015)
 
 ## Re-use of digital data
 The focus of digital archaeological archives and museums is now switching from simply providing better access to digital archives, to questions of how are users in commercial units, curatorial organizations and academics, along with members of the public, going to make best use of this growing body of digital information and data.
