@@ -25,9 +25,12 @@ However, such records are often only held on paper or scanned copies of matrix d
 ## Digital Data & Stratigraphic Standards
 The Matrix project will address current problems caused by the lack of standardized approaches to digital archiving of such archaeological data using the particular case study of stratigraphic and phasing data. Stratigraphic data form the backbone of all the related archaeological records from each excavated site and are essential for integrated analysis, wider synthesis and accessible archiving of the growing body of archaeological data and reports generated through the commercially funded archaeological sector as well as academic research in the UK and internationally.
 
-## Matrix – Stratigraphic & Temporal Relations and Chronological Modelling
-
 ![Matrix - Stratigraphic & Allen Temporal Relations](/images/Matrix_Temporal_Relations.png)
+
+## Matrix – Stratigraphic & Temporal Relations and Chronological Modelling
+One difference between a Bayesian chronological model and an archaeological sequence diagram is that the Bayesian chronological model may include temporal relationships that cannot be expressed by just using the stratigraphic Before/After/Equals as defined by the Harris matrix. The Matrix project will explore whether more explicit use of Allen operators and temporal primitive relationships in stratigraphic analysis processes can aid in the generation of data for use, and better re-use in chronological modelling.
+
+![Matrix - Stratigraphic & Temporal Relations and Chronological Modelling](/images/Dye_Buck_DAG.png)
 
 ## Re-use of digital data
 The focus of digital archaeological archives and museums is now switching from simply providing better access to digital archives, to questions of how are users in commercial units, curatorial organizations and academics, along with members of the public, going to make best use of this growing body of digital information and data.
