@@ -32,6 +32,7 @@ _*Allen temporal operators explicitly highlighted in a matrix diagram from Silbu
 One difference between a Bayesian chronological model and an archaeological sequence diagram is that the Bayesian chronological model may include temporal relationships that cannot be expressed by just using the stratigraphic Before/After/Equals as defined by the Harris matrix. The Matrix project will explore whether more explicit use of Allen temporal operators and temporal primitive relationships in stratigraphic analysis processes can aid in the generation of digital data for use in chronological modelling, and better re-use of stratigraphic data in digital archives.
 
 ![Matrix - Stratigraphic & Temporal Relations and Chronological Modelling](/images/Dye_Buck_DAG.png)
+
 Example Directed Acyclic Graph (DAG) for chronological modelling  _Dye & Buck 2015_
 
 ## Re-use of digital data
