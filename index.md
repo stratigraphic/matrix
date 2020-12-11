@@ -17,7 +17,7 @@ However, such records are often only held on paper or scanned copies of matrix d
 
 ![Harris 1979 – Fig2 & Historic England Recording Manual - 2015](/images/Phase_diagram.png) 
 
-https://en.wikipedia.org/w/index.php?title=Phase_(archaeology)&oldid=928228844
+<https://en.wikipedia.org/w/index.php?title=Phase_(archaeology)&oldid=928228844>
 
 ## Digital Data & Stratigraphic Standards
 The Matrix project will address current problems caused by the lack of standardized approaches to digital archiving of such archaeological data using the particular case study of stratigraphic and phasing data. Stratigraphic data form the backbone of all the related archaeological records from each excavated site and are essential for integrated analysis, wider synthesis and accessible archiving of the growing body of archaeological data and reports generated through the commercially funded archaeological sector as well as academic research in the UK and internationally.
@@ -36,9 +36,9 @@ A process model output will enable the research team to distil and demonstrate t
 * Binding, C. (2010) Implementing archaeological time periods using CIDOC CRM and SKOS. The Semantic Web: Research and Applications : ESWC 2010.
 * Dye, T.S. & Buck, C.E. (2015) Archaeological sequence diagrams and Bayesian chronological models. Journal of Archaeological Science, 63. 84 - 93. 
 * Harris, E.C. (1979) The Laws of of Archaeological Stratigraphy. World Archaeology Vol. 11, No1. 
-* May, K. 2020 The Matrix: Connecting Time and Space in Archaeological Stratigraphic Records and Archives, Internet Archaeology 55. https://doi.org/10.11141/ia.55.8 
+* May, K. 2020 The Matrix: Connecting Time and Space in Archaeological Stratigraphic Records and Archives, Internet Archaeology 55. <https://doi.org/10.11141/ia.55.8> 
 * Roskams, S. (2001) Excavation. Cambridge: Cambridge University Press. 
-* Tudhope, D., May, K., et al. (2011) 'Connecting Archaeological Data and Grey Literature via Semantic Cross Search', Internet Archaeology 30. https://doi.org/10.11141/ia.30.5
+* Tudhope, D., May, K., et al. (2011) 'Connecting Archaeological Data and Grey Literature via Semantic Cross Search', Internet Archaeology 30. <https://doi.org/10.11141/ia.30.5>
 
 ## Contact the Project team: 
 * Keith May     PI - Historic England and University of South Wales
@@ -48,9 +48,9 @@ A process model output will enable the research team to distil and demonstrate t
 ## Acknowledgements
 AHRC grant AH/T002093/1 <https://gtr.ukri.org/projects?ref=AH%2FT002093%2F1>
 
-![Acknowledgements](https://github.com/stratigraphic/matrix/blob/images/Acknowledgement_logo_group.png)
+![Acknowledgements](/images/Acknowledgement_logo_group.png)
 
 
-### Matrix Project additional info on ResearchGate: https://www.researchgate.net/project/The-Matrix-connecting-and-re-using-digital-records-and-archives-of-archaeological-investigations  
+### Matrix Project additional info on ResearchGate: <https://www.researchgate.net/project/The-Matrix-connecting-and-re-using-digital-records-and-archives-of-archaeological-investigations  >
 
 
