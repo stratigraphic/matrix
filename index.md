@@ -4,7 +4,7 @@ Archaeologists, are particularly concerned to make sure that the digital records
 
 This project will investigate how digital data from archaeological excavations can be made more useful and beneficial to a range of users and audiences. It will produce a plan and methods to get such data more consistently recorded, analysed, disseminated and archived in a way that is Findable, Accessible, Interoperable and Re-useable (FAIR).
 
-![Archaeologist Recording](/images/Archaeologist_Recording_KM.jpg)![Archaeological plan of the Hisarlik citadel" created by Bibi Saint-Pol -  CCby Wikipedia](/images/Archaeological plan of the Hisarlik citadel created by Bibi Saint-Pol.png)
+![Archaeologist Recording](/images/Archaeologist_Recording_KM.jpg)![Archaeological plan of the Hisarlik citadel" created by Bibi Saint-Pol -  CCby Wikipedia](/images/ArchaeologicalphasesHisarlik.png)
 
 "Archaeological plan of the Hisarlik citadel" created by Bibi Saint-Pol -  CCby Wikipedia
 
