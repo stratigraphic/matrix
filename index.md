@@ -4,14 +4,14 @@ Archaeologists, are particularly concerned to make sure that the digital records
 
 This project will investigate how digital data from archaeological excavations can be made more useful and beneficial to a range of users and audiences. It will produce a plan and methods to get such data more consistently recorded, analysed, disseminated and archived in a way that is Findable, Accessible, Interoperable and Re-useable (FAIR).
 
-![Archaeologist Recording](https://github.com/stratigraphic/matrix/images/Archaeologist_Recording_KM.jpg)![Archaeological plan of the Hisarlik citadel" created by Bibi Saint-Pol -  CCby Wikipedia](https://github.com/stratigraphic/matrix/blob/images/Archaeological%20plan%20of%20the%20Hisarlik%20citadel%20created%20by%20Bibi%20Saint-Pol.png)
+![Archaeologist Recording](/images/Archaeologist_Recording_KM.jpg)![Archaeological plan of the Hisarlik citadel" created by Bibi Saint-Pol -  CCby Wikipedia](/images/Archaeological%20plan%20of%20the%20Hisarlik%20citadel%20created%20by%20Bibi%20Saint-Pol.png)
 "Archaeological plan of the Hisarlik citadel" created by Bibi Saint-Pol -  CCby Wikipedia
 
 
 ## Archaeological Process & Data Modelling
 The stratigraphic record, usually in some form of a stratigraphic matrix, with associated relationships and data, acts as a primary, if not the primary piece of _**evidence**_ for how, and in what order, the site was excavated. As such the stratigraphic matrix (often known as a “Harris Matrix”) is the key mechanism that enables anyone less familiar with the site, to re-visit the excavation records, understand what data is most relevant for any particular research questions, or problems encountered, and piece together the underlying details of how the interpretations by the excavator(s) were actually arrived at. 
 
-![Harris 1979 – Fig2 & Historic England Recording Manual - 2015](https://github.com/stratigraphic/matrix/blob/images/rope_of_time.png)
+![Harris 1979 – Fig2 & Historic England Recording Manual - 2015](/images/rope_of_time.png)
 
 However, such records are often only held on paper or scanned copies of matrix diagrams that cannot easily be re-used with associated data. Often the key archaeological phasing data created in analysis and needed for synthesis work and interpretive understanding in written reports, is not so well documented or archived and shared consistently, if at all. This results in key records being unsearchable or remaining unconnected to other data and at best usually requires lengthy and wasteful re-keying if any one wishes to work with the archives from such sites.
 
