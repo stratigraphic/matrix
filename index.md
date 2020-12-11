@@ -2,9 +2,11 @@
 
 Archaeologists, are particularly concerned to make sure that the digital records of excavations are digitally archived and preserved safely for future research, because an archaeological excavation cannot be repeated. Once the archaeology is dug away then often the digital record is all that remains to enable future researchers to  understand what was discovered. This focus on preservation has helped address the principle concerns about "how do we keep this stuff digitally". But although there are now a number of well established digital archives, such as [The Archaeology Data Service](https://archaeologydataservice.ac.uk/) at the University of York, the next challenge is whether the data are preserved and accessible in a way that makes that data most useful to others beyond the archives and the archivists?
 
+![Archaeologist Recording](/images/Archaeologist_Recording_KM.jpg)
+
 This project will investigate how digital data from archaeological excavations can be made more useful and beneficial to a range of users and audiences. It will produce a plan and methods to get such data more consistently recorded, analysed, disseminated and archived in a way that is Findable, Accessible, Interoperable and Re-useable (FAIR).
 
-![Archaeologist Recording](/images/Archaeologist_Recording_KM.jpg)![Archaeological plan of the Hisarlik citadel" created by Bibi Saint-Pol -  CCby Wikipedia](/images/ArchaeologicalphasesHisarlik.png)
+![Archaeological plan of the Hisarlik citadel" created by Bibi Saint-Pol -  CCby Wikipedia](/images/ArchaeologicalphasesHisarlik.png)
 
 "Archaeological plan of the Hisarlik citadel" created by Bibi Saint-Pol -  CCby Wikipedia
 
