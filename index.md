@@ -31,6 +31,7 @@ The Matrix project will address current problems caused by the lack of standardi
 One difference between a Bayesian chronological model and an archaeological sequence diagram is that the Bayesian chronological model may include temporal relationships that cannot be expressed by just using the stratigraphic Before/After/Equals as defined by the Harris matrix. The Matrix project will explore whether more explicit use of Allen temporal operators and temporal primitive relationships in stratigraphic analysis processes can aid in the generation of digital data for use in chronological modelling, and better re-use of stratigraphic data in digital archives.
 
 ![Matrix - Stratigraphic & Temporal Relations and Chronological Modelling](/images/Dye_Buck_DAG.png)
+_Dye & Buck 2015_
 
 ## Re-use of digital data
 The focus of digital archaeological archives and museums is now switching from simply providing better access to digital archives, to questions of how are users in commercial units, curatorial organizations and academics, along with members of the public, going to make best use of this growing body of digital information and data.
