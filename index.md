@@ -33,7 +33,7 @@ One difference between a Bayesian chronological model and an archaeological sequ
 
 ![Matrix - Stratigraphic & Temporal Relations and Chronological Modelling](/images/Dye_Buck_DAG.png)
 
-Example Directed Acyclic Graph (DAG) for chronological modelling  _Dye & Buck 2015_
+_Example Directed Acyclic Graph (DAG) for chronological modelling - Dye & Buck 2015_
 
 ## Re-use of digital data
 The focus of digital archaeological archives and museums is now switching from simply providing better access to digital archives, to questions of how are users in commercial units, curatorial organizations and academics, along with members of the public, going to make best use of this growing body of digital information and data.
