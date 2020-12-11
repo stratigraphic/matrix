@@ -1,6 +1,6 @@
 # The Matrix: connecting and re-using digital records and archives of archaeological investigations
 
-Archaeologists, are particularly concerned to make sure that the digital records of excavations are digitally archived and preserved safely for future research, because an archaeological excavation cannot be repeated. Once the archaeology is dug away then often the digital record is all that remains to enable future researchers to  understand what was discovered. This focus on preservation has helped address the principle concerns about "how do we keep this stuff digitally". But although there are now a number of well established digital archives, such as The Archaeology Data Service at York Uni (https://archaeologydataservice.ac.uk/), the next challenge is whether the data are preserved and accessible in a way that makes that data most useful to others beyond the archives and the archivists?
+Archaeologists, are particularly concerned to make sure that the digital records of excavations are digitally archived and preserved safely for future research, because an archaeological excavation cannot be repeated. Once the archaeology is dug away then often the digital record is all that remains to enable future researchers to  understand what was discovered. This focus on preservation has helped address the principle concerns about "how do we keep this stuff digitally". But although there are now a number of well established digital archives, such as The Archaeology Data Service at York Uni (<https://archaeologydataservice.ac.uk/>), the next challenge is whether the data are preserved and accessible in a way that makes that data most useful to others beyond the archives and the archivists?
 
 This project will investigate how digital data from archaeological excavations can be made more useful and beneficial to a range of users and audiences. It will produce a plan and methods to get such data more consistently recorded, analysed, disseminated and archived in a way that is Findable, Accessible, Interoperable and Re-useable (FAIR).
 
@@ -15,7 +15,7 @@ The stratigraphic record, usually in some form of a stratigraphic matrix, with a
 
 However, such records are often only held on paper or scanned copies of matrix diagrams that cannot easily be re-used with associated data. Often the key archaeological phasing data created in analysis and needed for synthesis work and interpretive understanding in written reports, is not so well documented or archived and shared consistently, if at all. This results in key records being unsearchable or remaining unconnected to other data and at best usually requires lengthy and wasteful re-keying if any one wishes to work with the archives from such sites.
 
-![Harris 1979 – Fig2 & Historic England Recording Manual - 2015](https://github.com/stratigraphic/matrix/blob/images/Phase_diagram.png) 
+![Harris 1979 – Fig2 & Historic England Recording Manual - 2015](/images/Phase_diagram.png) 
 
 https://en.wikipedia.org/w/index.php?title=Phase_(archaeology)&oldid=928228844
 
@@ -24,8 +24,8 @@ The Matrix project will address current problems caused by the lack of standardi
 
 ## Matrix – Stratigraphic & Temporal Relations and Chronological Modelling
 
-![Matrix - Stratigraphic & Allen Temporal Relations](https://github.com/stratigraphic/matrix/blob/images/Matrix_Temporal_Relations.png)
-![Dye & Buck 2015](https://github.com/stratigraphic/matrix/blob/images/Dye_Buck_DAG.png) Dye, T.S. & Buck, C.E. (2015)
+![Matrix - Stratigraphic & Allen Temporal Relations](/images/Matrix_Temporal_Relations.png)
+![Dye & Buck 2015](/images/Dye_Buck_DAG.png) Dye, T.S. & Buck, C.E. (2015)
 
 ## Re-use of digital data
 The focus of digital archaeological archives and museums is now switching from simply providing better access to digital archives, to questions of how are users in commercial units, curatorial organizations and academics, along with members of the public, going to make best use of this growing body of digital information and data.
@@ -46,7 +46,7 @@ A process model output will enable the research team to distil and demonstrate t
 * James Taylor  RA - University of York
 
 ## Acknowledgements
-AHRC grant AH/T002093/1 https://gtr.ukri.org/projects?ref=AH%2FT002093%2F1
+AHRC grant AH/T002093/1 <https://gtr.ukri.org/projects?ref=AH%2FT002093%2F1>
 
 ![Acknowledgements](https://github.com/stratigraphic/matrix/blob/images/Acknowledgement_logo_group.png)
 
