@@ -51,11 +51,11 @@ An example test data set is availble also here: [https://raw.githubusercontent.c
 
 Or make your own .CSV file data set using the following 5 key fields with the matching field name headings.
 CSV column heading names need to be exactly as spelt below:
-siteCode
-contextNo
-contextType
-stratRelationship
-relatedContextNo
+* siteCode
+* contextNo
+* contextType
+* stratRelationship
+* relatedContextNo
 
 ## References
 * Allen, J.F. (1983) 'Maintaining Knowledge about Temporal Intervals'. Communications of the ACM 26, 11, 832-843.
