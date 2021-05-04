@@ -40,9 +40,9 @@ The focus of digital archaeological archives and museums is now switching from s
 A process model output will enable the research team to distil and demonstrate the most common approaches, data flows, and processes used in the life-cycle of the relevant data. Prototype software can then be used as a vehicle to explain and present to end users and other audiences how the data flows through and between different data systems and activities.
 
 ## Phaser - prototype Grouping and Phasing software tool
-The Prototype **is not intended currently to be fully functioning** Matrix recording and Stratigraphic Phasing analysis and archiving tool.  Would need more ‘administrative’ work to make it available e.g. as Open and FAIR software through an online tool with suitable registration for an archaeological community of users, e.g. more like the OASIS system, for instance.
+The Prototype _**is not intended currently to be fully functioning**_ Matrix recording and Stratigraphic Phasing analysis and archiving tool.  Would need more ‘administrative’ work to make it available e.g. as Open and FAIR software through an online tool with suitable registration for an archaeological community of users, e.g. more like the OASIS system, for instance.
 
-The Prototype **is designed to enable demonstration** and an overview of what we have enabled so far in the Matrix project and to elicit feedback from the archaeological community on what such an online tool might need to do to encourage archaeologists involved in Post-exc analysis want to use it – and support it’s improvement and sustainability through its development life-cycle.
+The Prototype _**is designed to enable demonstration**_ and an overview of what we have enabled so far in the Matrix project and to elicit feedback from the archaeological community on what such an online tool might need to do to encourage archaeologists involved in Post-exc analysis want to use it – and support it’s improvement and sustainability through its development life-cycle.
 
 
 The prototype is available from the following web link:https://cbinding.github.io/tmp123/
