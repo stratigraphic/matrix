@@ -42,7 +42,7 @@ A process model output will enable the research team to distil and demonstrate t
 ## Phaser - prototype Grouping and Phasing software tool
 The Prototype _**is not intended currently to be fully functioning**_ Matrix recording and Stratigraphic Phasing analysis and archiving software.  Would need more ‘administrative’ work to make it available e.g. as Open and FAIR software through an online tool with suitable registration for an archaeological community of users, e.g. more like the OASIS system, for instance.
 
-The Prototype _**is designed to enable demonstration**_ and an overview of what we have enabled so far in the Matrix project and to elicit feedback from the archaeological community on what such an online tool might need to do to encourage archaeologists involved in Post-exc analysis want to use it – and support it’s improvement and sustainability through its development life-cycle.
+The Prototype _**is designed to enable demonstration**_ and an overview of what we have enabled so far in the Matrix project and to elicit feedback from the archaeological community on what such an online tool might need to do to encourage archaeologists involved in Post-excavation analysis want to use it – and support it’s improvement and sustainability through its development life-cycle.
 
 
 The prototype is available from the following web link: [https://cbinding.github.io/tmp123/](https://cbinding.github.io/tmp123/)
