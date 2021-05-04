@@ -45,11 +45,12 @@ The Prototype is not intended currently to be fully functioning Matrix recording
 The Prototype is designed to enable demonstration and an overview of what we have enabled so far in the Matrix project and to elicit feedback from the archaeological community on what such an online tool might need to do to encourage archaeologists involved in Post-exc analysis want to use it – and support it’s improvement and sustainability through its development life-cycle.
 ![image](https://user-images.githubusercontent.com/33518855/117041883-36c02000-ad03-11eb-9d1f-b37ea26ba4d9.png)
 
-The prototype is available from the following web link:
-https://cbinding.github.io/tmp123/
+The prototype is available from the following web link:https://cbinding.github.io/tmp123/
+
 An example test data set is availble also here: https://github.com/stratigraphic/matrix/blob/main/CTD2021-Test-Data/CTD2021-phaser-20210504114322-with-Dating-test-data.json 
-Or make your own CSV file data set using the following 5 key fields with the matching field name headings
-Column heading names need to be exactly as shown below:
+
+Or make your own .CSV file data set using the following 5 key fields with the matching field name headings.
+CSV column heading names need to be exactly as spelt below:
 siteCode
 contextNo
 contextType
