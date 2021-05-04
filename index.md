@@ -39,6 +39,23 @@ _Example Directed Acyclic Graph (DAG) for chronological modelling - Dye & Buck 2
 The focus of digital archaeological archives and museums is now switching from simply providing better access to digital archives, to questions of how are users in commercial units, curatorial organizations and academics, along with members of the public, going to make best use of this growing body of digital information and data.
 A process model output will enable the research team to distil and demonstrate the most common approaches, data flows, and processes used in the life-cycle of the relevant data. Prototype software can then be used as a vehicle to explain and present to end users and other audiences how the data flows through and between different data systems and activities.
 
+## Phaser - prototype Grouping and Phasing software tool
+The Prototype is not intended currently to be fully functioning Matrix recording and Stratigraphic Phasing analysis and archiving tool.  Would need more ‘administrative’ work to make it available e.g. as Open and FAIR software through an online tool with suitable registration for an archaeological community of users, e.g. more like the OASIS system, for instance.
+
+The Prototype is designed to enable demonstration and an overview of what we have enabled so far in the Matrix project and to elicit feedback from the archaeological community on what such an online tool might need to do to encourage archaeologists involved in Post-exc analysis want to use it – and support it’s improvement and sustainability through its development life-cycle.
+![image](https://user-images.githubusercontent.com/33518855/117041883-36c02000-ad03-11eb-9d1f-b37ea26ba4d9.png)
+
+The prototype is available from the following web link:
+https://cbinding.github.io/tmp123/
+An example test data set is availble also here: https://github.com/stratigraphic/matrix/blob/main/CTD2021-Test-Data/CTD2021-phaser-20210504114322-with-Dating-test-data.json 
+Or make your own CSV file data set using the following 5 key fields with the matching field name headings
+Column heading names need to be exactly as shown below:
+siteCode
+contextNo
+contextType
+stratRelationship
+relatedContextNo
+
 ## References
 * Allen, J.F. (1983) 'Maintaining Knowledge about Temporal Intervals'. Communications of the ACM 26, 11, 832-843.
 * Binding, C. (2010) Implementing archaeological time periods using CIDOC CRM and SKOS. The Semantic Web: Research and Applications : ESWC 2010.
