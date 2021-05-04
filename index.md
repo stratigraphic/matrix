@@ -47,7 +47,7 @@ The Prototype _**is designed to enable demonstration**_ and an overview of what 
 
 The prototype is available from the following web link: [https://cbinding.github.io/tmp123/](https://cbinding.github.io/tmp123/)
 
-An example test data set is availble also here: [https://github.com/stratigraphic/matrix/blob/main/CTD2021-Test-Data/CTD2021-phaser-20210504114322-with-Dating-test-data.json](https://github.com/stratigraphic/matrix/blob/main/CTD2021-Test-Data/CTD2021-phaser-20210504114322-with-Dating-test-data.json) 
+An example test data set is availble also here: [https://raw.githubusercontent.com/stratigraphic/matrix/main/CTD2021-Test-Data/CTD2021-phaser-20210504114322-with-Dating-test-data.json](https://raw.githubusercontent.com/stratigraphic/matrix/main/CTD2021-Test-Data/CTD2021-phaser-20210504114322-with-Dating-test-data.json) 
 
 Or make your own .CSV file data set using the following 5 key fields with the matching field name headings.
 CSV column heading names need to be exactly as spelt below:
