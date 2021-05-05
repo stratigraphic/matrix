@@ -68,7 +68,7 @@ CSV column heading names need to be exactly as spelt below:
 * Tudhope, D., May, K., et al. (2011) 'Connecting Archaeological Data and Grey Literature via Semantic Cross Search', Internet Archaeology 30. <https://doi.org/10.11141/ia.30.5>
 
 ## Contact the Project team: 
-* Keith May     PI - Historic England and University of South Wales Keith.May@HistoricEngland.org.uk
+* Keith May     PI - Historic England and University of South Wales Keith.May(at)HistoricEngland.org.uk
 * Ceri Binding  RA - University of South Wales
 * James Taylor  RA - University of York
 
