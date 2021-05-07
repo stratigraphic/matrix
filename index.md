@@ -51,7 +51,7 @@ The prototype is currently available from the following web link: [https://cbind
 An example test data set is available also here: [https://raw.githubusercontent.com/stratigraphic/matrix/main/CTD2021-Test-Data/CTD2021-phaser-20210504114322-with-Dating-test-data.json](https://raw.githubusercontent.com/stratigraphic/matrix/main/CTD2021-Test-Data/CTD2021-phaser-20210504114322-with-Dating-test-data.json) 
 
 Here is a short video clip explaining how to Import a CSV file into Phaser software 
-![video clip explaining how to Import a CSV file into Phaser](https://github.com/stratigraphic/matrix/raw/gh-pages/images/Importing_CSV_file_example_small.webm) 
+![https://github.com/stratigraphic/matrix/raw/gh-pages/images/Importing_CSV_file_example_small.webm](https://github.com/stratigraphic/matrix/raw/gh-pages/images/Importing_CSV_file_example_small.webm) 
 
 Or make your own .CSV file data set using the following 5 key fields with the matching field name headings.
 CSV column heading names need to be exactly as spelt below:
