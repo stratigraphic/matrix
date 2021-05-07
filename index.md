@@ -54,7 +54,6 @@ Here is a short video clip explaining how to Import a CSV file into Phaser softw
 <video width="320" height="240" controls>
   <source type="video/webm" src="https://github.com/stratigraphic/matrix/blob/main/CTD2021-Test-Data/Importing_CSV_file_example_small.webm?raw=true">
 </video>
-![https://github.com/stratigraphic/matrix/raw/gh-pages/images/Importing_CSV_file_example_small.webm](https://github.com/stratigraphic/matrix/blob/main/CTD2021-Test-Data/Importing_CSV_file_example_small.webm?raw=true) 
 
 Or make your own .CSV file data set using the following 5 key fields with the matching field name headings.
 CSV column heading names need to be exactly as spelt below:
