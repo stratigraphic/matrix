@@ -52,7 +52,7 @@ An example test data set is available also here: [https://raw.githubusercontent.
 
 Here is a short video clip explaining how to Import a CSV file into Phaser software 
 <video width="320" height="240" controls>
-  <source type="video/mp4" src="https://github.com/stratigraphic/matrix/blob/gh-pages/images/Importing_CSV_file_example2.mp4?raw=true">
+  <source type="video/mp4" src="https://github.com/stratigraphic/matrix/blob/gh-pages/images/Importing_CSV_file_example5.mp4?raw=true">
 </video>
 
 Or make your own .CSV file data set using the following 5 key fields with the matching field name headings.
