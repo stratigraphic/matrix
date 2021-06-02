@@ -2,7 +2,7 @@
 
 ## Contents
 * <a href="#a">Archaeological Process & Data Modelling</a>
-* <a href="#Digital_Data">Digital Data & Stratigraphic Standards
+* <a href="#b">Digital Data & Stratigraphic Standards
 * <a href="#c">Matrix – Stratigraphic & Temporal Relations and Chronological Modelling
 * <a href="#d">Re-use of digital data
 * <a href="#e">Phaser - prototype Grouping and Phasing software tool
@@ -32,7 +32,7 @@ However, such records are often only held on paper or scanned copies of matrix d
 
 <https://en.wikipedia.org/w/index.php?title=Phase_(archaeology)&oldid=928228844>
 
-## <a name="Digital Data">Digital Data & Stratigraphic Standards
+## <a name="b">Digital Data & Stratigraphic Standards
 ">Digital Data & Stratigraphic Standards
 The Matrix project will address current problems caused by the lack of standardized approaches to digital archiving of such archaeological data using the particular case study of stratigraphic and phasing data. Stratigraphic data form the backbone of all the related archaeological records from each excavated site and are essential for integrated analysis, wider synthesis and accessible archiving of the growing body of archaeological data and reports generated through the commercially funded archaeological sector as well as academic research in the UK and internationally.
 
