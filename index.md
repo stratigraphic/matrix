@@ -1,5 +1,15 @@
 # The Matrix: connecting and re-using digital records and archives of archaeological investigations
 
+Contents
+[Archaeological Process & Data Modelling] (#Archaeological Process & Data Modelling)
+Digital Data & Stratigraphic Standards
+Matrix – Stratigraphic & Temporal Relations and Chronological Modelling
+Re-use of digital data
+Phaser - prototype Grouping and Phasing software tool
+References	
+Contact the Project team:
+Acknowledgements
+
 Archaeologists, are particularly concerned to make sure that the digital records of excavations are digitally archived and preserved safely for future research, because an archaeological excavation cannot be repeated. Once the archaeology is dug away then often the digital record is all that remains to enable future researchers to  understand what was discovered. This focus on preservation has helped address the principle concerns about "how do we keep this stuff digitally". But although there are now a number of well established digital archives, such as [The Archaeology Data Service](https://archaeologydataservice.ac.uk/) at the University of York, the next challenge is whether the data are preserved and accessible in ways that make that data most useful to others beyond the archives and the archivists?
 
 ![Archaeologist Recording](/images/Archaeologist_Recording_KM.jpg)
