@@ -51,7 +51,7 @@ The focus of digital archaeological archives and museums is now switching from s
 A process model output will enable the research team to distil and demonstrate the most common approaches, data flows, and processes used in the life-cycle of the relevant data. Prototype software can then be used as a vehicle to explain and present to end users and other audiences how the data flows through and between different data systems and activities.
 
 ## <a name="e">Phaser - prototype Grouping and Phasing software tool
-The Prototype _**is not intended currently to be fully functioning**_ Matrix recording and Stratigraphic Phasing analysis and archiving software.  It would need more development and administrative work to make it available e.g. as Open and FAIR software through an online tool with suitable registration for an archaeological community of users, e.g. more like the OASIS system, for instance.
+The Prototype _**is not intended currently to be fully functioning**_ Matrix recording and Stratigraphic Phasing analysis and archiving software.  It would need more development and administrative work to make it available e.g. as Open and FAIR software through an online tool with suitable registration for an archaeological community of users.
 
 The Prototype _**is designed to enable demonstration**_ and an overview of what we have developed so far in the Matrix project and particularly to elicit feedback from the archaeological community on what such an online tool might need to do to encourage archaeologists involved in Post-excavation analysis want to use it – and support it’s improvement and sustainability through its development life-cycle.
 
