@@ -1,7 +1,7 @@
 # The Matrix: connecting and re-using digital records and archives of archaeological investigations
 
 ## Contents
-*< a href="#z">Archaeological Process & Data Modelling </a>
+*<a href="#z">Archaeological Process & Data Modelling</a>
 * Digital Data & Stratigraphic Standards
 * Matrix – Stratigraphic & Temporal Relations and Chronological Modelling
 * Re-use of digital data
