@@ -39,18 +39,18 @@ The Matrix project will address current problems caused by the lack of standardi
 ![Matrix - Stratigraphic & Allen Temporal Relations](/images/Matrix_Temporal_Relations.png)
 _Allen temporal operators explicitly highlighted in a matrix diagram from Silbury Hill ([Silbury Hill digital archive](https://archaeologydataservice.ac.uk/archives/view/silbury_eh_2014/) from ADS)_
 
-## <a name="#c">Matrix – Stratigraphic & Temporal Relations and Chronological Modelling
+## <a name="c">Matrix – Stratigraphic & Temporal Relations and Chronological Modelling
 One difference between a Bayesian chronological model and an archaeological sequence diagram is that the Bayesian chronological model may include temporal relationships that cannot be expressed by just using the stratigraphic Before/After/Equals as defined by the Harris matrix. The Matrix project will explore whether more explicit use of Allen temporal operators and temporal primitive relationships in stratigraphic analysis processes can aid in the generation of digital data for use in chronological modelling, and better re-use of stratigraphic data in digital archives.
 
 ![Matrix - Stratigraphic & Temporal Relations and Chronological Modelling](/images/Dye_Buck_DAG.png)
 
 _Example Directed Acyclic Graph (DAG) for chronological modelling - Dye & Buck 2015_
 
-## <a name="#d">Re-use of digital data
+## <a name="d">Re-use of digital data
 The focus of digital archaeological archives and museums is now switching from simply providing better access to digital archives, to questions of how are users in commercial units, curatorial organizations and academics, along with members of the public, going to make best use of this growing body of digital information and data.
 A process model output will enable the research team to distil and demonstrate the most common approaches, data flows, and processes used in the life-cycle of the relevant data. Prototype software can then be used as a vehicle to explain and present to end users and other audiences how the data flows through and between different data systems and activities.
 
-## <a name="#e">Phaser - prototype Grouping and Phasing software tool
+## <a name="e">Phaser - prototype Grouping and Phasing software tool
 The Prototype _**is not intended currently to be fully functioning**_ Matrix recording and Stratigraphic Phasing analysis and archiving software.  It would need more development and administrative work to make it available e.g. as Open and FAIR software through an online tool with suitable registration for an archaeological community of users, e.g. more like the OASIS system, for instance.
 
 The Prototype _**is designed to enable demonstration**_ and an overview of what we have developed so far in the Matrix project and particularly to elicit feedback from the archaeological community on what such an online tool might need to do to encourage archaeologists involved in Post-excavation analysis want to use it – and support it’s improvement and sustainability through its development life-cycle.
@@ -74,7 +74,7 @@ CSV column heading names need to be exactly as spelt below:
 * stratRelationship
 * relatedContextNo
 
-## <a name="#f">References
+## <a name="f">References
 * Allen, J.F. (1983) 'Maintaining Knowledge about Temporal Intervals'. Communications of the ACM 26, 11, 832-843.
 * Binding, C. (2010) Implementing archaeological time periods using CIDOC CRM and SKOS. The Semantic Web: Research and Applications : ESWC 2010.
 * Dye, T.S. & Buck, C.E. (2015) Archaeological sequence diagrams and Bayesian chronological models. Journal of Archaeological Science, 63. 84 - 93. 
@@ -83,12 +83,12 @@ CSV column heading names need to be exactly as spelt below:
 * Roskams, S. (2001) Excavation. Cambridge: Cambridge University Press. 
 * Tudhope, D., May, K., et al. (2011) 'Connecting Archaeological Data and Grey Literature via Semantic Cross Search', Internet Archaeology 30. <https://doi.org/10.11141/ia.30.5>
 
-## <a name="#g">Contact the Project team: 
+## <a name="g">Contact the Project team: 
 * Keith May     PI - Historic England and University of South Wales - Keith.May(at)HistoricEngland.org.uk
 * Ceri Binding  RA - University of South Wales
 * James Taylor  RA - University of York
 
-## <a name="#h">Acknowledgements
+## <a name="h">Acknowledgements
 AHRC grant AH/T002093/1 <https://gtr.ukri.org/projects?ref=AH%2FT002093%2F1>
 
 ![Acknowledgements](/images/Acknowledgement_logo_group.png)
