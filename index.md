@@ -59,7 +59,7 @@ Please note that in the current prototype stage _**it is not recommended to try 
 
 The prototype is currently available from the following web link: [https://cbinding.github.io/tmp123/](https://cbinding.github.io/tmp123/)
 
-An example test data set is available also here: [https://raw.githubusercontent.com/stratigraphic/matrix/main/CTD2021-Test-Data/CTD2021-phaser-20210504114322-with-Dating-test-data.json](https://raw.githubusercontent.com/stratigraphic/matrix/main/CTD2021-Test-Data/CTD2021-phaser-20210504114322-with-Dating-test-data.json) 
+An example test data set is available here: [https://raw.githubusercontent.com/stratigraphic/matrix/main/CTD2021-Test-Data/CTD2021-phaser-20210504114322-with-Dating-test-data.json](https://raw.githubusercontent.com/stratigraphic/matrix/main/CTD2021-Test-Data/CTD2021-phaser-20210504114322-with-Dating-test-data.json) 
 
 Here is a short video clip explaining how to Import a CSV file into Phaser software 
 <video width="320" height="240" controls>
