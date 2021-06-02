@@ -21,7 +21,7 @@ This project will investigate how digital data from archaeological excavations c
 "Archaeological plan of the Hisarlik citadel" created by Bibi Saint-Pol -  CCby Wikipedia
 
 
-## <a name="#Arch_Process">Archaeological Process & Data Modelling</a>
+## <a name="Arch_Process">Archaeological Process & Data Modelling</a>
 The stratigraphic record, usually in some form of a stratigraphic matrix, with associated relationships and data, acts as a primary, if not the primary piece of _**evidence**_ for how, and in what order, the site was excavated. As such the stratigraphic matrix (often known as a “Harris Matrix”) is the key mechanism that enables anyone less familiar with the site, to re-visit the excavation records, understand what data is most relevant for any particular research questions, or problems encountered, and piece together the underlying details of how the interpretations by the excavator(s) were actually arrived at. 
 
 ![Harris 1979 – Fig2 & Historic England Recording Manual - 2015](/images/rope_of_time.png)
@@ -32,7 +32,7 @@ However, such records are often only held on paper or scanned copies of matrix d
 
 <https://en.wikipedia.org/w/index.php?title=Phase_(archaeology)&oldid=928228844>
 
-## <a name="#Digital Data">Digital Data & Stratigraphic Standards
+## <a name="Digital Data">Digital Data & Stratigraphic Standards
 ">Digital Data & Stratigraphic Standards
 The Matrix project will address current problems caused by the lack of standardized approaches to digital archiving of such archaeological data using the particular case study of stratigraphic and phasing data. Stratigraphic data form the backbone of all the related archaeological records from each excavated site and are essential for integrated analysis, wider synthesis and accessible archiving of the growing body of archaeological data and reports generated through the commercially funded archaeological sector as well as academic research in the UK and internationally.
 
