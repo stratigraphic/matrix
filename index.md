@@ -19,7 +19,7 @@ This project will investigate how digital data from archaeological excavations c
 
 ![Archaeologist Recording](/images/Archaeologist_Recording_KM.jpg) 
 
-## Archaeological Process & Data Modelling
+## <a name="a">Archaeological Process & Data Modelling
 The stratigraphic record, usually in some form of a stratigraphic matrix, with associated relationships and data, acts as a primary, if not the primary piece of _**evidence**_ for how, and in what order, the site was excavated. As such the stratigraphic matrix (often known as a “Harris Matrix”) is the key mechanism that enables anyone less familiar with the site, to re-visit the excavation records, understand what data is most relevant for any particular research questions, or problems encountered, and piece together the underlying details of how the interpretations by the excavator(s) were actually arrived at. 
 
 ![Harris 1979 – Fig2 & Historic England Recording Manual - 2015](/images/rope_of_time.png)
