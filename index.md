@@ -16,7 +16,7 @@ Archaeologists, are particularly concerned to make sure that the digital records
 
 This project will investigate how digital data from archaeological excavations can be made more useful and beneficial to a range of users and audiences. It will produce a plan and methods to get such data more consistently recorded, analysed, disseminated and archived in a way that is Findable, Accessible, Interoperable and Re-useable ([FAIR](https://www.force11.org/group/fairgroup/fairprinciples)).
   
- ## <a name="a">Introductory Video recording from a Research Seminar on The Matrix Project presented for MOLA archaeologists</a> - opens in YouTube
+ ## <a name="a">Introductory Video recording from a Research Seminar on The Matrix Project presented for MOLA archaeologists on 15-07-2021</a> - opens in YouTube
  [![Matrix Research Seminar for MOLA](/images/Matrix_Seminar.jpg)](https://www.youtube.com/watch?v=ffYAx60ILoU)
  
 
