@@ -15,11 +15,10 @@ Archaeologists, are particularly concerned to make sure that the digital records
 ![Archaeologist Recording](/images/Archaeologist_Recording_KM.jpg)
 
 This project will investigate how digital data from archaeological excavations can be made more useful and beneficial to a range of users and audiences. It will produce a plan and methods to get such data more consistently recorded, analysed, disseminated and archived in a way that is Findable, Accessible, Interoperable and Re-useable ([FAIR](https://www.force11.org/group/fairgroup/fairprinciples)).
-
-![Archaeological plan of the Hisarlik citadel" created by Bibi Saint-Pol -  CCby Wikipedia](/images/ArchaeologicalphasesHisarlik.png)
-
-"Archaeological plan of the Hisarlik citadel" created by Bibi Saint-Pol -  CCby Wikipedia
-
+  
+  Introductory Video recording from Research Seminar on The Matrix Project presented for MOLA archaeologists - opens in YouTube
+  
+  [https://youtu.be/ffYAx60ILoU] (https://youtu.be/ffYAx60ILoU)
 
 ## <a name="a">Archaeological Process & Data Modelling</a>
 The stratigraphic record, usually in some form of a stratigraphic matrix, with associated relationships and data, acts as a primary, if not the primary piece of _**evidence**_ for how, and in what order, the site was excavated. As such the stratigraphic matrix (often known as a “Harris Matrix”) is the key mechanism that enables anyone less familiar with the site, to re-visit the excavation records, understand what data is most relevant for any particular research questions, or problems encountered, and piece together the underlying details of how the interpretations by the excavator(s) were actually arrived at. 
