@@ -53,7 +53,7 @@ A process model output will enable the research team to distil and demonstrate t
 ## <a name="e">Phaser - prototype Grouping and Phasing software tool
 The Prototype _**is not intended currently to be fully functioning**_ Matrix recording and Stratigraphic Phasing analysis and archiving software.  It would need more development and administrative work to make it available e.g. as Open and FAIR software through an online tool with suitable registration for an archaeological community of users.
 
-The Prototype _**is designed to enable demonstration**_ and an overview of what we have developed so far in the Matrix project and particularly to elicit feedback from the archaeological community on what such an online tool might need to do to encourage archaeologists involved in Post-excavation analysis to use it – and support it’s improvement and sustainability through its development life-cycle.
+The Prototype _**is designed to enable demonstration**_ and an overview of what we have developed so far in the Matrix project and particularly to elicit feedback from the archaeological community on what such an online tool might need to do to encourage archaeologists involved in Post-excavation analysis to use it and support it’s improvement and sustainability through its development life-cycle.
 
 Please note that in the current prototype stage _**it is not recommended to try loading a CSV file with more than around 500 individual context records**_. Depending upon feedback on this initial development, the software could be further developed to enable larger numbers of records, but this would require more time spent in the second half of the Matrix project on testing and resolving scaleability issues. 
 
