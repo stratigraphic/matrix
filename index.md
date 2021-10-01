@@ -18,10 +18,7 @@ This project will investigate how digital data from archaeological excavations c
   
   Introductory Video recording from a Research Seminar on The Matrix Project presented for MOLA archaeologists - opens in YouTube
  [![Matrix Research Seminar for MOLA](/images/Matrix_Seminar.jpg)](https://www.youtube.com/watch?v=ffYAx60ILoU)
-  <video width="320" height="240" controls>
-      <source type="video/mp4" src="https://www.youtube.com/watch?v=ffYAx60ILoU">
-</video>
-  
+ 
 
 ## <a name="a">Archaeological Process & Data Modelling</a>
 The stratigraphic record, usually in some form of a stratigraphic matrix, with associated relationships and data, acts as a primary, if not the primary piece of _**evidence**_ for how, and in what order, the site was excavated. As such the stratigraphic matrix (often known as a “Harris Matrix”) is the key mechanism that enables anyone less familiar with the site, to re-visit the excavation records, understand what data is most relevant for any particular research questions, or problems encountered, and piece together the underlying details of how the interpretations by the excavator(s) were actually arrived at. 
