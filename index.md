@@ -64,13 +64,12 @@ Here is a short video clip explaining how to Import a CSV file into Phaser softw
   <source type="video/mp4" src="https://github.com/stratigraphic/matrix/blob/gh-pages/images/Importing_CSV_file_example5.mp4?raw=true">
 </video>
 
-Or make your own .CSV file data set using the following 5 key fields with the matching field name headings.
+Or make your own .CSV file data set using the following 4 key fields with the matching field name headings.
 CSV column heading names need to be exactly as spelt below:
 * siteCode
-* contextNo
-* contextType
+* sourceID
 * stratRelationship
-* relatedContextNo
+* targetID
 
 ## <a name="f">References
 * Allen, J.F. (1983) 'Maintaining Knowledge about Temporal Intervals'. Communications of the ACM 26, 11, 832-843.
