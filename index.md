@@ -55,7 +55,7 @@ The Prototype _**is designed to enable demonstration**_ and an overview of what 
 
 Please note that in the current prototype stage _**it is not recommended to try loading a CSV file with more than around 500 individual context records**_. Depending upon feedback on this initial development, the software could be further developed to enable larger numbers of records, but this would require more time spent in the second half of the Matrix project on testing and resolving scaleability issues. 
 
-The prototype is currently available from the following web link: [https://cbinding.github.io/tmp123/](https://cbinding.github.io/tmp123/)
+The prototype is currently available from the following web link: [https://stratigraphic.github.io/phaser-app/](https://stratigraphic.github.io/phaser-app/)
 
 An example test data set is available here: [https://raw.githubusercontent.com/stratigraphic/matrix/main/CTD2021-Test-Data/CTD2021-phaser-20210504114322-with-Dating-test-data.json](https://raw.githubusercontent.com/stratigraphic/matrix/main/CTD2021-Test-Data/CTD2021-phaser-20210504114322-with-Dating-test-data.json) 
 
