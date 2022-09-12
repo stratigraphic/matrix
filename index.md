@@ -5,7 +5,7 @@
 * <a href="#b">Digital Data & Stratigraphic Standards
 * <a href="#c">Matrix – Stratigraphic & Temporal Relations and Chronological Modelling
 * <a href="#d">Re-use of digital data
-* <a href="#e">Phaser - prototype Grouping and Phasing software tool
+* <a href="#e">**Phaser - prototype Grouping and Phasing software tool**
 * <a href="#f">References	
 * <a href="#g">Contact the Project team:
 * <a href="#h">Acknowledgements
