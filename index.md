@@ -59,7 +59,7 @@ The prototype is currently available from the following web link: [https://strat
 
 An example test data set is available here: [https://raw.githubusercontent.com/stratigraphic/matrix/main/CTD2021-Test-Data/CTD2021-phaser-20210504114322-with-Dating-test-data.json](https://raw.githubusercontent.com/stratigraphic/matrix/main/CTD2021-Test-Data/CTD2021-phaser-20210504114322-with-Dating-test-data.json) 
 
-A **Help file explaining more of the functionality of the Phaser software** and how to use it is available at: [https://stratigraphic.github.io/phaser-app/](https://stratigraphic.github.io/phaser-app/help.html)
+A **Help file explaining more of the functionality of the Phaser software** and how to use it is available at: [https://stratigraphic.github.io/phaser-app/help.html](https://stratigraphic.github.io/phaser-app/help.html)
   
   Here is a short video clip explaining how to Import a CSV file into Phaser software 
 <video width="320" height="240" controls>
