@@ -53,7 +53,7 @@ The Prototype _**is not intended currently to be fully functioning**_ Matrix rec
 
 The Prototype _**is designed to enable demonstration**_ and an overview of what we have developed so far in the Matrix project and particularly to elicit feedback from the archaeological community on what such an online tool might need to do to encourage archaeologists involved in Post-excavation analysis to use it and support it’s improvement and sustainability through its development life-cycle.
 
-Please note that in the current prototype stage _**it is not recommended to try loading a CSV file with more than around 500-3000 individual context records**_. Depending upon feedback on this initial development, the software could be further developed to enable larger numbers of records, but this would require more time and further resources to enable testing and resolving scaleability issues. 
+Please note that in the current prototype stage _**it is not recommended to try loading a CSV file with more than around 500-3000 individual context records**_.  Depending upon feedback on this initial development, the software could be further developed to enable larger numbers of records to be entered, but this would require more time and further resources to enable testing and resolving scaleability issues. 
 
 The prototype is currently available from the following web link: [https://stratigraphic.github.io/phaser-app/](https://stratigraphic.github.io/phaser-app/)
 
