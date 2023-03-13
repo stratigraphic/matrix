@@ -1,3 +1,9 @@
 theme: jekyll-theme-cayman
 layout: default
 comments: true
+# Analytics
+analytics:
+  provider               : "google-gtag"
+  google:
+    measurement_id          : "G-Q5TZ6QSMEG"
+    anonymize_ip         : # true, false (default)
