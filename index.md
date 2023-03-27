@@ -92,7 +92,6 @@ AHRC grant AH/T002093/1 <https://gtr.ukri.org/projects?ref=AH%2FT002093%2F1>
 
 ![Acknowledgements](/images/Acknowledgement_logo_group.png)
 
-
 ### Matrix Project additional info on ResearchGate: <https://www.researchgate.net/project/The-Matrix-connecting-and-re-using-digital-records-and-archives-of-archaeological-investigations  >
 
-
+/images/Digital_rain_animation_medium_letters_shine.gif (Copyright CC_by Wikipedia)
