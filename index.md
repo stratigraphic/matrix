@@ -78,8 +78,10 @@ CSV column heading names need to be exactly as spelt below:
 * Binding, C. (2010) Implementing archaeological time periods using CIDOC CRM and SKOS. The Semantic Web: Research and Applications : ESWC 2010.
 * Dye, T.S. & Buck, C.E. (2015) Archaeological sequence diagrams and Bayesian chronological models. Journal of Archaeological Science, 63. 84 - 93. 
 * Harris, E.C. (1979) The Laws of of Archaeological Stratigraphy. World Archaeology Vol. 11, No1. 
+* May, K., Taylor, J.S. and Binding, C. 2023 Stratigraphic Analysis and The Matrix: connecting and reusing digital records and archives of archaeological investigations, Internet Archaeology 61. <https://doi.org/10.11141/ia.61.2>
 * May, K. 2020 The Matrix: Connecting Time and Space in Archaeological Stratigraphic Records and Archives, Internet Archaeology 55. <https://doi.org/10.11141/ia.55.8> 
-* Roskams, S. (2001) Excavation. Cambridge: Cambridge University Press. 
+* Roskams, S. (2001) Excavation. Cambridge: Cambridge University Press.
+* Taylor JS, May K. Resurrecting, reinterpreting and reusing stratigraphy: an afterlife for archaeological data. Antiquity. 2024;98(399):805-820. doi:10.15184/aqy.2024.60 DOI: <https://doi.org/10.15184/aqy.2024.60>
 * Tudhope, D., May, K., et al. (2011) 'Connecting Archaeological Data and Grey Literature via Semantic Cross Search', Internet Archaeology 30. <https://doi.org/10.11141/ia.30.5>
 
 ## <a name="g">Contact the Project team: 
