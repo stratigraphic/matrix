@@ -1,4 +1,4 @@
-The Matrix: connecting and re-using digital records and archives of archaeological investigations
+## The Matrix: connecting and re-using digital records and archives of archaeological investigations
 
 ## Contents
 * <a href="#a">Archaeological Process & Data Modelling</a>
